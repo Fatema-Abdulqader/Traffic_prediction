@@ -44,11 +44,3 @@ We use the **Caltrans PeMS traffic datasets** (PeMS-03, PeMS-04, PeMS-07, PeMS-0
 ├── results/ # Folder for saving metrics & figures
 └── README.md # This file
 
-#Citation: 
-#If you use this code, please cite our paper:
-#@article{albalooshi2025urban,
-#  title   = {Advancing Urban Planning with Deep Learning: Intelligent Traffic Flow Prediction and Optimization for Smart Cities},
-#  author  = {Albalooshi, Fatema A.},
-#  journal = {MDPI Future Transportation},
-#  year    = {2025}
-#}
